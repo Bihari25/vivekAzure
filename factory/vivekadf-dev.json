@@ -1,0 +1,9 @@
+{
+	"name": "vivekadf-dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3454a801-cdfc-4495-924a-ad904ea09e74",
+		"tenantId": "2c3fefe4-c355-434d-9cae-2d6ae648fe91"
+	}
+}
